@@ -1,3 +1,5 @@
 export function SideBar() {
-  // Complete aqui
+  return(
+    <span>Watch<p>Me</p></span>
+  );
 }
